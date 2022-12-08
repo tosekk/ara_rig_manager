@@ -47,7 +47,6 @@ class ARA_Properties(PropertyGroup):
 #----------------------------------------------------------------#
 
 classes = [
-    ARAPanel,
     ARA_Properties,
     ARA_PT_MenuMain
 ]

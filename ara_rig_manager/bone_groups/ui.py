@@ -7,7 +7,7 @@ from bpy.types import Operator, Panel
 from bpy_extras.io_utils import ExportHelper, ImportHelper
 
 # Local imports
-from helpers import *
+from .helpers import *
 from ..ui import ARAPanel
 
 
