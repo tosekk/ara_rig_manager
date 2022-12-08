@@ -1,0 +1,7 @@
+# Standard Python gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Deprecated ARA Rig manager
+deprecated_ara_rm
