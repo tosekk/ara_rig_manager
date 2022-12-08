@@ -5,3 +5,6 @@ __pycache__/
 
 # Deprecated ARA Rig manager
 deprecated_ara_rm
+
+# Builds
+*.zip
